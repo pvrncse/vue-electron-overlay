@@ -15,6 +15,16 @@ yarn serve
 yarn build
 ```
 
+### Compiles and hot-reloads for development via electron
+```
+yarn electron:serve
+```
+
+### Compiles and minifies for production via electron
+```
+yarn electron:build
+```
+
 ### Lints and fixes files
 ```
 yarn lint
